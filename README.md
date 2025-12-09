@@ -74,9 +74,9 @@ I'm a passionate software developer from **Bangladesh** focused on building reli
 
 <div align="center">
 
-![Yeasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ya-shuvo30&show_icons=true&theme=tokyonight&hide_border=true)
+![Yeasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeasin-dev-me&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ya-shuvo30&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin-dev-me&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -98,7 +98,7 @@ I'm a passionate software developer from **Bangladesh** focused on building reli
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yeasindev.me-emerald?style=for-the-badge)](https://yeasindev.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yeasin_Arafat-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yeasin-arafat)
-[![GitHub](https://img.shields.io/badge/GitHub-ya--shuvo30-181717?style=for-the-badge&logo=github)](https://github.com/ya-shuvo30)
+[![GitHub](https://img.shields.io/badge/GitHub-yeasin--dev--me-181717?style=for-the-badge&logo=github)](https://github.com/yeasin-dev-me)
 [![Email](https://img.shields.io/badge/Email-yeasinarafat.cs@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:yeasinarafat.cs@gmail.com)
 
 </div>
