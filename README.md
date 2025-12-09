@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi , I'm YEASIN ARAFAT
+   I'm YEASIN ARAFAT
 
-**Full-Stack Developer | Backend Specialist | ML Enthusiast**
+**Full-Stack Software Engineer | Backend Specialist | ML Enthusiast**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yeasindev.me-emerald?style=for-the-badge&logo=vercel)](https://yeasindev.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yeasin-arafat)
